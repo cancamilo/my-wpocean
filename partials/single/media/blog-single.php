@@ -4,6 +4,9 @@
  *
  * @package OceanWP WordPress theme
  */
+
+ // Do not display thumbnail image here!
+ return;
  
 // Exit if accessed directly
 if ( ! defined( 'ABSPATH' ) ) {
